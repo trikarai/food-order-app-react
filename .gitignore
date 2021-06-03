@@ -1,8 +1,6 @@
 .DS_Store
 node_modules
 /build
-
-.eslintcache
  
 # local env files
 .env.local
